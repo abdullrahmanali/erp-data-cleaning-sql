@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,stock_qty,stock_qty_raw,had_negative_stock
+1,Filing Cabinet,Furniture,243.65,144,144,False
+2,Printer Toner,Stationery,731.51,236,236,False
+3,Whiteboard,Furniture,584.63,255,255,False
+4,A4 Paper Ream,Furniture,1188.16,207,207,False
+5,USB Cable,Electronics,18.81,147,147,False
+6,Conference Table,Electronics,742.12,71,71,False
+7,Filing Cabinet,Electronics,508.67,273,273,False
+8,Wireless Mouse,Furniture,1306.36,117,117,False
+9,Conference Table,Furniture,1166.68,17,17,False
+10,USB Cable,Furniture,1219.94,192,192,False
+11,A4 Paper Ream,Furniture,202.48,297,297,False
+12,USB Cable,Furniture,668.85,264,264,False
+13,Filing Cabinet,Furniture,623.82,74,74,False
+14,Laptop Stand,Furniture,408.56,198,198,False
+15,Laptop Stand,Stationery,1291.12,189,189,False
+16,USB Cable,Furniture,68.31,30,30,False
+17,Whiteboard,Stationery,1123.95,217,217,False
+18,Laptop Stand,Furniture,1045.59,9,9,False
+19,Office Chair,Stationery,450.65,186,186,False
+20,Wireless Mouse,Electronics,626.9,87,87,False
+21,A4 Paper Ream,Electronics,1308.2,118,118,False
+22,Filing Cabinet,Electronics,699.81,125,125,False
+23,Filing Cabinet,Stationery,1349.88,233,233,False
+24,Desk Lamp,Electronics,670.97,171,171,False
+25,Conference Table,Stationery,645.1,123,123,False
+26,Filing Cabinet,Stationery,586.27,242,242,False
+27,Laptop Stand,Electronics,548.05,146,146,False
+28,Desk Lamp,Furniture,992.47,135,135,False
+29,Office Chair,Electronics,1170.79,20,20,False
+30,Conference Table,Furniture,1355.86,112,112,False
+31,Conference Table,Stationery,297.35,123,123,False
+32,A4 Paper Ream,Furniture,974.82,153,153,False
+33,Filing Cabinet,Furniture,1102.55,41,41,False
+34,Desk Lamp,Stationery,275.83,62,62,False
+35,Printer Toner,Stationery,1371.53,79,79,False
+36,Desk Lamp,Furniture,453.29,168,168,False
+37,Laptop Stand,Furniture,224.02,110,110,False
+38,Wireless Mouse,Electronics,1189.16,2,2,False
+39,Desk Lamp,Electronics,562.35,129,129,False
+40,Conference Table,Furniture,1411.33,50,50,False
