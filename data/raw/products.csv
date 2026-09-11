@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,stock_qty
+1,Filing Cabinet,Furniture,243.65,144
+2,Printer Toner,Stationery,731.51,236
+3,Whiteboard,furniture,584.63,255
+4,A4 Paper Ream,Furniture,1188.16,207
+5,USB Cable,ELECTRONICS,18.81,147
+6,Conference Table,ELECTRONICS,742.12,71
+7,Filing Cabinet,ELECTRONICS,508.67,273
+8,Wireless Mouse,furniture,1306.36,117
+9,Conference Table,furniture,1166.68,17
+10,USB Cable,furniture,1219.94,192
+11,A4 Paper Ream,furniture,202.48,297
+12,USB Cable,Furniture,668.85,264
+13,Filing Cabinet,Furniture,623.82,74
+14,Laptop Stand,furniture,408.56,198
+15,Laptop Stand,Stationery,1291.12,189
+16,USB Cable,furniture,68.31,30
+17,Whiteboard,Stationery,1123.95,217
+18,Laptop Stand,Furniture,1045.59,9
+19,Office Chair,Stationery,450.65,186
+20,Wireless Mouse,Electronics,626.9,87
+21,A4 Paper Ream,Electronics,1308.2,118
+22,Filing Cabinet,ELECTRONICS,699.81,125
+23,Filing Cabinet,Stationery,1349.88,233
+24,Desk Lamp,ELECTRONICS,670.97,171
+25,Conference Table,Stationery,645.1,123
+26,Filing Cabinet,Stationery,586.27,242
+27,Laptop Stand,Electronics,548.05,146
+28,Desk Lamp,Furniture,992.47,135
+29,Office Chair,ELECTRONICS,1170.79,20
+30,Conference Table,furniture,1355.86,112
+31,Conference Table,Stationery,297.35,123
+32,A4 Paper Ream,Furniture,974.82,153
+33,Filing Cabinet,Furniture,1102.55,41
+34,Desk Lamp,Stationery,275.83,62
+35,Printer Toner,Stationery,1371.53,79
+36,Desk Lamp,furniture,453.29,168
+37,Laptop Stand,furniture,224.02,110
+38,Wireless Mouse,ELECTRONICS,1189.16,2
+39,Desk Lamp,ELECTRONICS,562.35,129
+40,Conference Table,furniture,1411.33,50
